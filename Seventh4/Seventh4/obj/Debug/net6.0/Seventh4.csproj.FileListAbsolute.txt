@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\student\Seventh4\Seventh4\bin\Debug\net6.0\Seventh4.exe
+C:\Users\user\Desktop\student\Seventh4\Seventh4\bin\Debug\net6.0\Seventh4.deps.json
+C:\Users\user\Desktop\student\Seventh4\Seventh4\bin\Debug\net6.0\Seventh4.runtimeconfig.json
+C:\Users\user\Desktop\student\Seventh4\Seventh4\bin\Debug\net6.0\Seventh4.dll
+C:\Users\user\Desktop\student\Seventh4\Seventh4\bin\Debug\net6.0\Seventh4.pdb
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.AssemblyInfo.cs
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.dll
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\refint\Seventh4.dll
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.pdb
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\Seventh4.genruntimeconfig.cache
+C:\Users\user\Desktop\student\Seventh4\Seventh4\obj\Debug\net6.0\ref\Seventh4.dll
